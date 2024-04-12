@@ -1,0 +1,7 @@
+Nombre = input("Cual es tu nombre? ")
+Apellido = input("Cual es tu apellido? ")
+Asignatura = input("Cual tu asignatura? ")
+Sede = input("Cual es tu sede? ")
+Semestre = input("Cual es tu semestre? ")
+Año = input("Cual es tu año? ")
+print("Nombre " + Nombre, Apellido + "Asignatura"+ Asignatura +"Sede "+ Sede +"Semestre "+ Semestre +"Año"+ Año)
